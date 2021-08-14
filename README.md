@@ -1,7 +1,8 @@
 # Subscription-form
-## A subscription form built with React and Flask
 
-### [Link](https://drive.google.com/file/d/162f7c5DNMx0_GXTRU5HMkKJTUWM0Oh86/view?usp=sharing) to video.
+A subscription form built with React and Flask
+
+## [Link](https://drive.google.com/file/d/162f7c5DNMx0_GXTRU5HMkKJTUWM0Oh86/view?usp=sharing) to video.
 
 * Download or clone the git repository.
 * Open the backend folder in the editor of your choice
